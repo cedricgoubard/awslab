@@ -1,3 +1,6 @@
+echo $REGION
+echo $S3_NAME
+echo $API_GATEWAY_URL
 sudo yum update –y
 sudo yum install -y httpd24 php56
 maxsize=25M
